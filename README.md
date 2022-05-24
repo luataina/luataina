@@ -5,3 +5,6 @@ I got my Ph.D. in molecular biology and biochemistry at the Federal University o
 
 I am a math enthusiast, trying to see biological problems through a mathematical lens, and this GitHub repository is my portfolio.
 Here I showcase a compilation of my R programming codes that I have used for my research statistical analysis.
+
+
+![](https://komarev.com/ghpvc/?username=luataina)
