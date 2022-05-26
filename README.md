@@ -1,4 +1,4 @@
-Hello,my name is Luã Reis. 
+Hello, my name is Luã Reis. 
 
 I am a molecular biologist specialist in neuroscience and toxicology.
 
