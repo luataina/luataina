@@ -1,6 +1,6 @@
 Hello, my name is Luã Reis. 
 
-I am a curious and passionate molecular biologist specialist in neuroscience and toxicology and in vitro models.
+I am a curious and passionate molecular biologist specialist in neuroscience, toxicology and in vitro models.
 
 In this portfolio, I demonstrate R programming workflow and statistical analysis, such as:
 - Descriptive statistics
