@@ -13,10 +13,9 @@ In this portfolio, I demonstrate R programming workflow and statistical analysis
 - Central limit theorem
 - Decision tree (machine learning)
 
-I got my Ph.D. in molecular biology and biochemistry at the Federal University of Bahia (Brazil) and did postdoctoral research at Karolinska Institutet (Sweden). My research is focused on cell biology and in vitro models. I have been working for more than 12 years with several different types of cell culture models such as bacteria, cancer cell lines, neural stem cells, and iPSC. I have developed toxicological models for neuroscience, as well as hypothalamic neuronal models derived from iPSC. 
+I got my Ph.D. in molecular biology and biochemistry at the Federal University of Bahia (Brazil) and did postdoctoral research at Karolinska Institutet (Sweden). My research is focused on cell biology and in vitro models. I have been working for more than 12 years with different types of cell culture models such as bacteria, cancer cell lines, neural stem cells, and iPSC. I have developed models for toxicology in neuroscience and hypothalamic neurons derived from iPSC. 
 
-I am a math enthusiast, trying to see biological problems through a mathematical lens, and here I showcase a compilation of R programming codes that I have used for my research statistical analysis.
-
+I am a math enthusiast, trying to approach biological problems through a mathematical lens. Here, I showcase a compilation of R programming codes that I have used in my statistical analysis.
 
 
 ![](https://komarev.com/ghpvc/?username=luataina)
